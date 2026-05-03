@@ -20,6 +20,12 @@ TrueSet is a data annotation platform. AI companies need labeled training data t
 
 ---
 
+<img width="1916" height="896" alt="image" src="https://github.com/user-attachments/assets/59b9091b-924a-4d28-ac37-abaac2ad3a13" />
+<img width="1919" height="904" alt="image" src="https://github.com/user-attachments/assets/0adf8b92-7d58-4fff-96f2-6643c6e4375e" />
+<img width="1917" height="909" alt="image" src="https://github.com/user-attachments/assets/5f3f9c15-131f-406f-9ad0-e7ff3b292a8e" />
+<img width="1914" height="915" alt="image" src="https://github.com/user-attachments/assets/5304e635-f07c-41f8-a324-26ea80bc2c95" />
+
+
 ## Tech Stack — What and Why
 
 ### Django (Python) — Backend
@@ -41,6 +47,12 @@ Cross-platform framework from Google. You write one codebase and it runs on Andr
 React framework with server-side rendering. The landing page needed Next.js specifically because Flutter web renders to a canvas element which search engines cannot read, so it has terrible SEO. Next.js produces proper HTML that Google can index, which means TrueSet can be found through search.
 
 ---
+
+<img width="1919" height="878" alt="image" src="https://github.com/user-attachments/assets/fc9f0ed9-c570-4d1e-a056-488502e81306" />
+<img width="1909" height="907" alt="image" src="https://github.com/user-attachments/assets/6138c5a4-9360-49a7-8e4e-8db19b0e55be" />
+<img width="1916" height="830" alt="image" src="https://github.com/user-attachments/assets/c9db65c3-e6cb-48d0-b338-08df0dd8f3b1" />
+<img width="1894" height="906" alt="image" src="https://github.com/user-attachments/assets/731b5cdc-3056-446e-b36c-ee947bed1108" />
+
 
 ## Key Features — Technical Detail
 
@@ -106,6 +118,12 @@ Three separate deployable units in one git repository. In production:
 All three communicate only through the Django REST API. The landing page and Flutter portal are completely independent frontends — swapping either one out doesn't affect the other.
 
 ---
+
+<img width="1888" height="905" alt="image" src="https://github.com/user-attachments/assets/13e4677a-02c9-4767-a8fa-6ef49e12f140" />
+<img width="1919" height="874" alt="image" src="https://github.com/user-attachments/assets/e043db96-9604-44a1-b96f-e85d4d1c53b9" />
+<img width="1919" height="902" alt="image" src="https://github.com/user-attachments/assets/6b8e8e50-7c12-4465-93e5-29e63ecc3c52" />
+
+
 
 ## What's Built vs What's Left
 
